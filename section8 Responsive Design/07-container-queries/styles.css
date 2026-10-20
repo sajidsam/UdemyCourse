@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    display: flex;
+}
+
+p {
+    padding: 2rem;
+
+}
+
+main {
+
+    container-type: inline-size;
+
+    width: 100%;
+    margin: 30px auto;
+    padding: 20px;
+
+}
+
+main p {
+    background: lightgreen;
+    background: #f4f4f4;
+    padding: 20px;
+
+
+}
+
+aside {
+    container-type: inline-size;
+    container-name: aside;
+    flex: 0 0 30%;
+    background: #f4f4f4;
+    padding: 20px;
+}
+
+@container (max-width: 992px) {
+    main p {
+        background: lightblue;
+    }
+}
+@container (max-width: 992px) {
+    aside p {
+        background: lightgreen;
+    }
+}
