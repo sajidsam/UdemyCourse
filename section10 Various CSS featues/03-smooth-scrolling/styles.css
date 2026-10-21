@@ -38,6 +38,7 @@ img {
 
 .header {
     background: linear-gradient(45deg, #f00, #00f);
+    color: #fff;
     padding: 10px auto;
     margin-bottom: 8-px;
 
