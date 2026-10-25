@@ -1,11 +1,11 @@
-* {
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: 'Roboto', sans-serif;
     background-color: #d9e2e8;
 }
 
@@ -79,13 +79,13 @@ body {
 
 /* Background Images */
 .card-sporty {
-    background: #fff url('./images/formal.png') no-repeat center right/ 200px;
+    background: #fff url('./images/sporty.png') no-repeat center right/200px;
 }
 
 .card-casual {
-    background: #fff url('./images/formal.png') no-repeat center right/ 200px;
+    background: #fff url('./images/casual.png') no-repeat center right/200px;
 }
 
 .card-formal {
-    background: #fff url('./images/formal.png') no-repeat center right/ 200px;
+    background: #fff url('./images/formal.png') no-repeat center right/200px;
 }
