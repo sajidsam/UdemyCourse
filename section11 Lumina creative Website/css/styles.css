@@ -7,7 +7,7 @@
 :root {
     --primary-color: #fcf5e9;
     --dark-color: #333;
-    --container-noraml: 1100px;
+    --container-normal: 1100px;
     --container-wide: 1400px;
     --container-narrow: 900px;
 }
@@ -172,7 +172,7 @@ img {
 /* Footer */
 .footer {
     border-top: 1px solid #aaa;
-    padding: 2 rem 1.5rem;
+    padding: 2rem 1.5rem;
     margin-top: 2rem;
 
 }
@@ -222,7 +222,7 @@ img {
 
 /* Team */
 .team {
-    padding: 3rem o 4rem;
+    padding: 3rem 0 4rem;
 
 }
 
@@ -276,7 +276,7 @@ img {
 
 
 
-.contact .button {
+.contact button {
     width: 100%;
 }
 
