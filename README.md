@@ -31,9 +31,13 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 - [💻 Getting Started Locally](#-getting-started-locally)
 - [👤 Author &amp; Credits](#-author--credits)
 
----
 
-## 🚀 Featured Real-World Projects
+
+## Featured Real-World Projects - Slider
+
+<p align="center">
+  <img src="./Readme-Images/projects-slider.gif" alt="Featured Real-World Projects Showcase Slider" width="100%" />
+</p>
 
 ### 🌐 Live Demos Quick Access
 
