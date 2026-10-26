@@ -1,4 +1,4 @@
-# 🌐 Modern HTML & CSS From The Beginning 2.0 — Master Repository
+# Modern HTML & CSS From The Beginning 2.0 — Master Repository
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -13,39 +13,39 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
-- [🚀 Featured Real-World Projects](#-featured-real-world-projects)
-  - [1. Leno Mobile App Landing Page](#1-leno-mobile-app-landing-page)
+- [ Featured Real-World Projects](#-featured-real-world-projects)
+  - [1. Leno Mobile App Landing Page](#1-leno-mobile-app)
   - [2. Tutor Website](#2-tutor-website)
   - [3. Lumina Creative Agency Website](#3-lumina-creative-agency-website)
   - [4. Mini-Projects &amp; Practice Challenges](#4-mini-projects--practice-challenges)
-- [📚 Course Curriculum &amp; Section Breakdown](#-course-curriculum--section-breakdown)
+- [ Course Curriculum &amp; Section Breakdown](#-course-curriculum--section-breakdown)
   - [HTML Fundamentals &amp; Forms (Sections 1–4)](#html-fundamentals--forms-sections-14)
   - [CSS Fundamentals, Box Model &amp; Flexbox (Sections 5–7)](#css-fundamentals-box-model--flexbox-sections-57)
   - [Responsive Design &amp; Modern CSS (Sections 8–10)](#responsive-design--modern-css-sections-810)
   - [Projects, Git &amp; Accessibility (Sections 11–13)](#projects-git--accessibility-sections-1113)
   - [Advanced Selectors &amp; CSS Grid (Sections 14–15)](#advanced-selectors--css-grid-sections-1415)
   - [Transitions, Animations &amp; Capstones (Sections 16–21)](#transitions-animations--capstones-sections-1621)
-- [🛠️ Key Skills &amp; Concepts Mastered](#️-key-skills--concepts-mastered)
-- [💻 Getting Started Locally](#-getting-started-locally)
-- [👤 Author &amp; Credits](#-author--credits)
+- [ Key Skills &amp; Concepts Mastered](#-key-skills--concepts-mastered)
+- [ Getting Started Locally](#-getting-started-locally)
+- [ Author &amp; Credits](#-author--credits)
 
+---
 
-
-## Featured Real-World Projects - Slider
+##  Featured Real-World Projects								
 
 <p align="center">
   <img src="./Readme-Images/projects-slider.gif" alt="Featured Real-World Projects Showcase Slider" width="100%" />
 </p>
 
-### 🌐 Live Demos Quick Access
+###  Live Demos Quick Access
 
-| Project                      | Live Demo                                                                          | Source Code                                                                         | Tech Stack                         |
-| :--------------------------- | :--------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :--------------------------------- |
-| 📱 **Leno App**        | [**leno-apps.vercel.app**](https://leno-apps.vercel.app/)                     | [`section19-20 Leno Website`](<./section19-20%20Leno%20Website>)                   | HTML5, CSS3, JS, Flexbox, Modal    |
-| 🎓 **Tutor Site**      | [**tutor-site-brown.vercel.app**](https://tutor-site-brown.vercel.app/)       | [`section17-18 Tutor Website`](<./section17-18%20Tutor%20Website>)                 | HTML5, CSS3, JS, Responsive Nav    |
-| 🎨 **Lumina Creative** | [**lumina-creative-psi.vercel.app**](https://lumina-creative-psi.vercel.app/) | [`section11 Lumina creative Website`](<./section11%20Lumina%20creative%20Website>) | HTML5, CSS3, Lightbox2, Multi-Page |
+| Project                   | Live Demo                                                                          | Source Code                                                                         | Tech Stack                         |
+| :------------------------ | :--------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :--------------------------------- |
+| **Leno App**        | [**leno-apps.vercel.app**](https://leno-apps.vercel.app/)                     | [`section19-20 Leno Website`](<./section19-20%20Leno%20Website>)                   | HTML5, CSS3, JS, Flexbox, Modal    |
+| **Tutor Site**      | [**tutor-site-brown.vercel.app**](https://tutor-site-brown.vercel.app/)       | [`section17-18 Tutor Website`](<./section17-18%20Tutor%20Website>)                 | HTML5, CSS3, JS, Responsive Nav    |
+| **Lumina Creative** | [**lumina-creative-psi.vercel.app**](https://lumina-creative-psi.vercel.app/) | [`section11 Lumina creative Website`](<./section11%20Lumina%20creative%20Website>) | HTML5, CSS3, Lightbox2, Multi-Page |
 
 ---
 
@@ -53,9 +53,9 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 [![Leno Mobile App Preview](./Readme-Images/Leno/homeLeno.png)](https://leno-apps.vercel.app/)
 
-- 🌐 **Live Demo:** [https://leno-apps.vercel.app](https://leno-apps.vercel.app/)
-- 📁 **Directory:** [`section19-20 Leno Website`](<./section19-20%20Leno%20Website>)
-- ✨ **Description:** A modern, high-converting, and sleek landing page for Leno — the all-in-one productivity and health assistant mobile application tailored for creators, developers, and professionals.
+- **Live Demo:** [https://leno-apps.vercel.app](https://leno-apps.vercel.app/)
+- **Directory:** [`section19-20 Leno Website`](<./section19-20%20Leno%20Website>)
+- **Description:** A modern, high-converting, and sleek landing page for Leno — the all-in-one productivity and health assistant mobile application tailored for creators, developers, and professionals.
 - **Key Highlights:**
   - Dynamic responsive navigation with mobile hamburger menu
   - Video presentation section with video frame modal preview
@@ -70,9 +70,9 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 [![Tutor Website Preview](./Readme-Images/Tutor/homeTutor.png)](https://tutor-site-brown.vercel.app/)
 
-- 🌐 **Live Demo:** [https://tutor-site-brown.vercel.app](https://tutor-site-brown.vercel.app/)
-- 📁 **Directory:** [`section17-18 Tutor Website`](<./section17-18%20Tutor%20Website>)
-- ✨ **Description:** A modern, responsive, and visually appealing landing page website for an online video course and tutorial platform.
+- **Live Demo:** [https://tutor-site-brown.vercel.app](https://tutor-site-brown.vercel.app/)
+- **Directory:** [`section17-18 Tutor Website`](<./section17-18%20Tutor%20Website>)
+- **Description:** A modern, responsive, and visually appealing landing page website for an online video course and tutorial platform.
 - **Key Highlights:**
   - Hero header with high-impact CTA and course overview
   - Chapter breakdown cards with custom SVG icons
@@ -87,9 +87,9 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 [![Lumina Creative Website Preview](./Readme-Images/Lumina/homeLumina.png)](https://lumina-creative-psi.vercel.app/)
 
-- 🌐 **Live Demo:** [https://lumina-creative-psi.vercel.app](https://lumina-creative-psi.vercel.app/)
-- 📁 **Directory:** [`section11 Lumina creative Website`](<./section11%20Lumina%20creative%20Website>) / [`section12 Github`](<./section12%20Github>)
-- ✨ **Description:** A modern, responsive, and minimalist website designed for creative agencies, photography studios, and digital designers.
+- **Live Demo:** [https://lumina-creative-psi.vercel.app](https://lumina-creative-psi.vercel.app/)
+- **Directory:** [`section11 Lumina creative Website`](<./section11%20Lumina%20creative%20Website>) / [`section12 Github`](<./section12%20Github>)
+- **Description:** A modern, responsive, and minimalist website designed for creative agencies, photography studios, and digital designers.
 - **Key Highlights:**
   - Multi-page routing and consistent navigation header/footer
   - Interactive portfolio gallery with Lightbox integration
@@ -113,7 +113,7 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ---
 
-## 📚 Course Curriculum & Section Breakdown
+## Course Curriculum & Section Breakdown
 
 ### HTML Fundamentals & Forms (Sections 1–4)
 
@@ -154,7 +154,7 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ---
 
-## 🛠️ Key Skills & Concepts Mastered
+## Key Skills & Concepts Mastered
 
 - **Semantic HTML5:** Native landmark elements, accessible forms, tables, media handling, and SVG integration.
 - **Modern CSS Layouts:** Mastering Flexbox (1D) and CSS Grid (2D) for complex, adaptable UI patterns.
@@ -166,7 +166,7 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ---
 
-## 💻 Getting Started Locally
+## Getting Started Locally
 
 To explore or run any of the projects and practice sections locally:
 
@@ -189,12 +189,10 @@ To explore or run any of the projects and practice sections locally:
 
 ---
 
-## 👤 Author & Credits
+## Author & Credits
 
 - **Course:** Modern HTML & CSS From The Beginning 2.0 (Traversy Media)
 - **Developer / Student:** [Sajidul Islam (@sajidsam)](https://github.com/sajidsam)
 - **Repository:** [sajidsam/UdemyCourse](https://github.com/sajidsam/UdemyCourse)
 
 ---
-
-<p align="center">Made with ❤️ and dedication to mastering modern web development.</p>
