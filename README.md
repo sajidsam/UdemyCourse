@@ -97,15 +97,15 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ### 4. Mini-Projects & Practice Challenges
 
-| Project / Challenge                  | Section    | Path                                                                                                                      | Highlights                                                       |
-| :----------------------------------- | :--------- | :------------------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------- |
-| **Landing Form**               | Section 9  | [`section9 Landing Form`](<./section9%20Landing%20Form>)                                                                 | Hero background image, glassmorphic card, polished form inputs   |
-| **Shoe Cards Project**         | Section 6  | [`section6 .../10-shoe-cards-project`](<./section6%20Box%20Model%20and%20Positioning/10-shoe-cards-project>)             | Product display cards, badges, box-shadows, layout positioning   |
-| **Freelance Form Project**     | Section 6  | [`section6 .../09-freelance-form-project`](<./section6%20Box%20Model%20and%20Positioning/09-freelance-form-project>)     | Clean input layout with styled submit actions                    |
-| **Pricing Card Challenge**     | Section 7  | [`section7 Flexbox/06-pricing-card-challenge`](<./section7%20Flexbox/06-pricing-card-challenge>)                         | Flexbox-powered responsive pricing cards                         |
-| **Responsive Pricing Grid**    | Section 8  | [`section8 Responsive Design/05-responsive-pricing-grid`](<./section8%20Responsive%20Design/05-responsive-pricing-grid>) | Media queries & fluid layout adaptation                          |
-| **CSS Selectors Challenge**    | Section 14 | [`section14 Advanced Selectors/10-selectors-challenge`](<./section14%20Advanced%20Selectors/10-selectors-challenge>)     | Advanced pseudo-classes and combinators in practice              |
-| **CSS Grid Layout Challenges** | Section 15 | [`section15 CSS Grid`](<./section15%20CSS%20Grid>)                                                                       | Column/row spans, `autofill`/`autofit`, and named grid areas |
+| Project / Challenge                  | Section    | Path                                                                                                                      |
+| :----------------------------------- | :--------- | :------------------------------------------------------------------------------------------------------------------------ |
+| **Landing Form**               | Section 9  | [`section9 Landing Form`](<./section9%20Landing%20Form>)                                                                 |
+| **Shoe Cards Project**         | Section 6  | [`section6 .../10-shoe-cards-project`](<./section6%20Box%20Model%20and%20Positioning/10-shoe-cards-project>)             |
+| **Freelance Form Project**     | Section 6  | [`section6 .../09-freelance-form-project`](<./section6%20Box%20Model%20and%20Positioning/09-freelance-form-project>)     |
+| **Pricing Card Challenge**     | Section 7  | [`section7 Flexbox/06-pricing-card-challenge`](<./section7%20Flexbox/06-pricing-card-challenge>)                         |
+| **Responsive Pricing Grid**    | Section 8  | [`section8 Responsive Design/05-responsive-pricing-grid`](<./section8%20Responsive%20Design/05-responsive-pricing-grid>) |
+| **CSS Selectors Challenge**    | Section 14 | [`section14 Advanced Selectors/10-selectors-challenge`](<./section14%20Advanced%20Selectors/10-selectors-challenge>)     |
+| **CSS Grid Layout Challenges** | Section 15 | [`section15 CSS Grid`](<./section15%20CSS%20Grid>)                                                                       |
 
 ---
 
