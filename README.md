@@ -45,13 +45,14 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ---
 
-### 1. Leno Mobile App 
+### 1. Leno Mobile App
+
+[![Leno Mobile App Preview](./Readme-Images/Leno/homeLeno.png)](https://leno-apps.vercel.app/)
 
 - 🌐 **Live Demo:** [https://leno-apps.vercel.app](https://leno-apps.vercel.app/)
 - 📁 **Directory:** [`section19-20 Leno Website`](<./section19-20%20Leno%20Website>)
-- ✨ **Description:** A pixel-perfect, fully responsive, multi-section landing page for a mobile health & productivity application.
+- ✨ **Description:** A modern, high-converting, and sleek landing page for Leno — the all-in-one productivity and health assistant mobile application tailored for creators, developers, and professionals.
 - **Key Highlights:**
-
   - Dynamic responsive navigation with mobile hamburger menu
   - Video presentation section with video frame modal preview
   - Interactive screenshots showcase & details modal
@@ -63,11 +64,12 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ### 2. Tutor Website
 
+[![Tutor Website Preview](./Readme-Images/Tutor/homeTutor.png)](https://tutor-site-brown.vercel.app/)
+
 - 🌐 **Live Demo:** [https://tutor-site-brown.vercel.app](https://tutor-site-brown.vercel.app/)
 - 📁 **Directory:** [`section17-18 Tutor Website`](<./section17-18%20Tutor%20Website>)
-- ✨ **Description:** A high-converting course and book landing page designed for educators and content creators.
+- ✨ **Description:** A modern, responsive, and visually appealing landing page website for an online video course and tutorial platform.
 - **Key Highlights:**
-
   - Hero header with high-impact CTA and course overview
   - Chapter breakdown cards with custom SVG icons
   - Stats counter section and reader testimonials
@@ -79,11 +81,12 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ### 3. Lumina Creative Agency Website
 
+[![Lumina Creative Website Preview](./Readme-Images/Lumina/homeLumina.png)](https://lumina-creative-psi.vercel.app/)
+
 - 🌐 **Live Demo:** [https://lumina-creative-psi.vercel.app](https://lumina-creative-psi.vercel.app/)
 - 📁 **Directory:** [`section11 Lumina creative Website`](<./section11%20Lumina%20creative%20Website>) / [`section12 Github`](<./section12%20Github>)
-- ✨ **Description:** A multi-page website (`Home`, `About`, `Contact`) for a modern digital creative agency.
+- ✨ **Description:** A modern, responsive, and minimalist website designed for creative agencies, photography studios, and digital designers.
 - **Key Highlights:**
-
   - Multi-page routing and consistent navigation header/footer
   - Interactive portfolio gallery with Lightbox integration
   - Team showcase cards and services overview
