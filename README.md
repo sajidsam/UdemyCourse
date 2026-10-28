@@ -33,7 +33,7 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ---
 
-##  Featured Real-World Projects								
+##  Featured Real-World Projects - Slider							
 
 <p align="center">
   <img src="./Readme-Images/projects-slider.gif" alt="Featured Real-World Projects Showcase Slider" width="100%" />
