@@ -147,7 +147,7 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ### Transitions, Animations & Capstones (Sections 16–21)
 
-- **[Section 16: Transition &amp; Animation](<./section16%20Transition%20animation>)** — CSS transitions, timing functions, keyframe animations, hover states, and smooth UI transitions.
+- **[Section 16: Transition &amp; Animation](<./section16%20Transition%20animation>)** — CSS transitions, timing functions, keyframe animations, little js.
 - **[Section 17-18: Tutor Website Project](<./section17-18%20Tutor%20Website>)** — Comprehensive full-scale course landing page with mobile menu and dynamic sections. ([Live Demo](https://tutor-site-brown.vercel.app/))
 - **[Section 19-20: Leno Mobile App Website Project](<./section19-20%20Leno%20Website>)** — Large-scale capstone app showcase website with modals, interactive galleries, and custom JavaScript interactions. ([Live Demo](https://leno-apps.vercel.app/))
 - **[Section 21: Production &amp; Deployment](./section21)** — Project finalization, optimization, and production deployment.
