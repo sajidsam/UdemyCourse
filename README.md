@@ -33,7 +33,7 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ---
 
-##  Featured Real-World Projects								
+##  Featured Real-World Projects - Slider							
 
 <p align="center">
   <img src="./Readme-Images/projects-slider.gif" alt="Featured Real-World Projects Showcase Slider" width="100%" />
@@ -147,7 +147,11 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ### Transitions, Animations & Capstones (Sections 16–21)
 
+<<<<<<< HEAD
 - **[Section 16: Transition &amp; Animation](<./section16%20Transition%20animation>)** — CSS transitions, timing functions, keyframe animations, and little JS.
+=======
+- **[Section 16: Transition &amp; Animation](<./section16%20Transition%20animation>)** — CSS transitions, timing functions, keyframe animations, little js.
+>>>>>>> 9fddc3cb875678da13160b6b7b28b82e2161b73e
 - **[Section 17-18: Tutor Website Project](<./section17-18%20Tutor%20Website>)** — Comprehensive full-scale course landing page with mobile menu and dynamic sections. ([Live Demo](https://tutor-site-brown.vercel.app/))
 - **[Section 19-20: Leno Mobile App Website Project](<./section19-20%20Leno%20Website>)** — Large-scale capstone app showcase website with modals, interactive galleries, and custom JavaScript interactions. ([Live Demo](https://leno-apps.vercel.app/))
 - **[Section 21: Production &amp; Deployment](./section21)** — Project finalization, optimization, and production deployment.
