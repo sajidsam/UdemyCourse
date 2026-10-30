@@ -17,42 +17,31 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 ---
 
 <details>
-<summary>📚 Table of Contents</summary>
+<summary>Table of Contents</summary>
 
 <br>
 
-- [🎬 Featured Real-World Projects](#-featured-real-world-projects)
+- [Featured Real-World Projects](#featured-real-world-projects)
   - [1. Leno Mobile App](#1-leno-mobile-app)
   - [2. Tutor Website](#2-tutor-website)
   - [3. Lumina Creative Agency Website](#3-lumina-creative-agency-website)
   - [4. Mini-Projects & Practice Challenges](#4-mini-projects--practice-challenges)
-- [📖 Course Curriculum & Section Breakdown](#-course-curriculum--section-breakdown)
-- [🧠 Key Skills & Concepts Mastered](#-key-skills--concepts-mastered)
-- [🚀 Getting Started Locally](#-getting-started-locally)
-- [👤 Author & Credits](#-author--credits)
+- [Course Curriculum & Section Breakdown](#course-curriculum--section-breakdown)
+- [Key Skills & Concepts Mastered](#key-skills--concepts-mastered)
+- [Getting Started Locally](#getting-started-locally)
+- [Author & Credits](#author--credits)
 
 </details>
 
 ---
 
-## 🎬 Featured Real-World Projects
-
-<table width="100%">
-  <tr>
-    <td valign="middle">
-      <h3>Live Project Showcase — Slider</h3>
-    </td>
-    <td align="right" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="72" alt="fire" />
-    </td>
-  </tr>
-</table>
+## Featured Real-World Projects
 
 <p align="center">
   <img src="./Readme-Images/projects-slider.gif" alt="Featured Real-World Projects Showcase Slider" width="100%" />
 </p>
 
-### ⚡ Live Demos Quick Access
+### Live Demos Quick Access
 
 | Project | Live Demo | Source Code |
 | :--- | :--- | :--- |
@@ -126,7 +115,7 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ---
 
-## 📖 Course Curriculum & Section Breakdown
+## Course Curriculum & Section Breakdown
 
 | Section | Title | Category | Key Topics |
 | :---: | :--- | :--- | :--- |
@@ -146,13 +135,13 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 | 14 | [Advanced Selectors](<./section14%20Advanced%20Selectors>) | CSS | Attribute selectors, combinators, pseudo-elements, `:has()`, `:is()`, `:where()` |
 | 15 | [CSS Grid](<./section15%20CSS%20Grid>) | CSS | 2D layouts, `grid-template`, `repeat()`, `minmax()`, auto-fill/fit, named areas |
 | 16 | [Transitions & Animation](<./section16%20Transition%20animation>) | CSS | CSS transitions, timing functions, keyframe animations, JS integration |
-| 17–18 | [Tutor Website Project](<./section17-18%20Tutor%20Website>) | Project | Full-scale course landing page with mobile menu · [Live Demo](https://tutor-site-brown.vercel.app/) |
-| 19–20 | [Leno Mobile App Website](<./section19-20%20Leno%20Website>) | Project | Capstone with modals, interactive galleries, JavaScript interactions · [Live Demo](https://leno-apps.vercel.app/) |
+| 17-18 | [Tutor Website Project](<./section17-18%20Tutor%20Website>) | Project | Full-scale course landing page with mobile menu · [Live Demo](https://tutor-site-brown.vercel.app/) |
+| 19-20 | [Leno Mobile App Website](<./section19-20%20Leno%20Website>) | Project | Capstone with modals, interactive galleries, JavaScript interactions · [Live Demo](https://leno-apps.vercel.app/) |
 | 21 | [Production & Deployment](./section21) | Tooling | Project finalization, optimization, production deployment |
 
 ---
 
-## 🧠 Key Skills & Concepts Mastered
+## Key Skills & Concepts Mastered
 
 - **Semantic HTML5:** Native landmark elements, accessible forms, tables, media handling, and SVG integration.
 - **Modern CSS Layouts:** Mastering Flexbox (1D) and CSS Grid (2D) for complex, adaptable UI patterns.
@@ -164,7 +153,7 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ---
 
-## 🚀 Getting Started Locally
+## Getting Started Locally
 
 To explore or run any of the projects and practice sections locally:
 
@@ -189,7 +178,7 @@ To explore or run any of the projects and practice sections locally:
 
 ---
 
-## 👤 Author & Credits
+## Author & Credits
 
 - **Developer:** [Sajidul Islam (@sajidsam)](https://github.com/sajidsam)
 - **Repository:** [sajidsam/UdemyCourse](https://github.com/sajidsam/UdemyCourse)
