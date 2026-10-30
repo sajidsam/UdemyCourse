@@ -41,11 +41,11 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ###  Live Demos Quick Access
 
-| Project                   | Live Demo                                                                          | Source Code                                                                         | Tech Stack                         |
-| :------------------------ | :--------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- | :--------------------------------- |
-| **Leno App**        | [**leno-apps.vercel.app**](https://leno-apps.vercel.app/)                     | [`section19-20 Leno Website`](<./section19-20%20Leno%20Website>)                   | HTML5, CSS3, JS, Flexbox, Modal    |
-| **Tutor Site**      | [**tutor-site-brown.vercel.app**](https://tutor-site-brown.vercel.app/)       | [`section17-18 Tutor Website`](<./section17-18%20Tutor%20Website>)                 | HTML5, CSS3, JS, Responsive Nav    |
-| **Lumina Creative** | [**lumina-creative-psi.vercel.app**](https://lumina-creative-psi.vercel.app/) | [`section11 Lumina creative Website`](<./section11%20Lumina%20creative%20Website>) | HTML5, CSS3, Lightbox2, Multi-Page |
+| Project                   | Live Demo                                                                          | Source Code                                                                         |
+| :------------------------ | :--------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------- |
+| **Leno App**        | [**leno-apps.vercel.app**](https://leno-apps.vercel.app/)                     | [`section19-20 Leno Website`](<./section19-20%20Leno%20Website>)                   |
+| **Tutor Site**      | [**tutor-site-brown.vercel.app**](https://tutor-site-brown.vercel.app/)       | [`section17-18 Tutor Website`](<./section17-18%20Tutor%20Website>)                 |
+| **Lumina Creative** | [**lumina-creative-psi.vercel.app**](https://lumina-creative-psi.vercel.app/) | [`section11 Lumina creative Website`](<./section11%20Lumina%20creative%20Website>) |
 
 ---
 
@@ -147,7 +147,7 @@ Welcome to the comprehensive learning and project repository for **Modern HTML &
 
 ### Transitions, Animations & Capstones (Sections 16–21)
 
-- **[Section 16: Transition &amp; Animation](<./section16%20Transition%20animation>)** — CSS transitions, timing functions, keyframe animations, hover states, and smooth UI transitions.
+- **[Section 16: Transition &amp; Animation](<./section16%20Transition%20animation>)** — CSS transitions, timing functions, keyframe animations, and little JS.
 - **[Section 17-18: Tutor Website Project](<./section17-18%20Tutor%20Website>)** — Comprehensive full-scale course landing page with mobile menu and dynamic sections. ([Live Demo](https://tutor-site-brown.vercel.app/))
 - **[Section 19-20: Leno Mobile App Website Project](<./section19-20%20Leno%20Website>)** — Large-scale capstone app showcase website with modals, interactive galleries, and custom JavaScript interactions. ([Live Demo](https://leno-apps.vercel.app/))
 - **[Section 21: Production &amp; Deployment](./section21)** — Project finalization, optimization, and production deployment.
